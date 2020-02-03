@@ -18,3 +18,17 @@ Enthusiastic, have a high threshold emotional, stubborn in achieving the final r
 * Sass/SCSS
 * Git
 * BEM
+
+## Experience
+
+**2013 - 2017** - Artox, content-manager
+
+**2017 - 2018** - Freelance
+
+**2018 - ...** - Severex, content-manager
+
+## Education
+
+**Belarusian National Technical University (2008 - 2013)** - Economist-manager
+
+
